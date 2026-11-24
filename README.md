@@ -3,7 +3,7 @@
 Estudiante de la Tecnicatura Universitaria en Programación (UTN) con 16 materias aprobadas en la Licenciatura en Análisis de Sistemas (UBA).
 
 🛠️ **Tecnologías y Herramientas:**
-- **Lenguajes:** Python, SQL
+- **Lenguajes:** Java, Python, SQL
 - **Bases de Datos:** SQLite, Modelado Relacional (DER)
 - **Librerías / Herramientas:** Pandas, Git, GitHub, Terminal Bash
 
